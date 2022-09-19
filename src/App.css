@@ -1,0 +1,13 @@
+*{
+  /* font-family: 'Lato', sans-serif; */
+  /* font-weight: bolder; */
+}
+.App {
+  background-color: #060606;
+  color:whitesmoke;
+  width:100%;
+ }
+ button
+ {
+     cursor: pointer
+ }
