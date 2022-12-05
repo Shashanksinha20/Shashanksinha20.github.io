@@ -1,8 +1,12 @@
+.introClass{
+    /* scroll-margin-top: 3rem; */
+    padding-top: 0.5rem;
+}
 .color
 {
     color:#d1b561;
     margin-left: 15%;
-    margin-top:7%;
+    margin-top: 10%;
 }
 .fontS{
     margin-left: 15%;
@@ -20,6 +24,8 @@
     width:50%;
     line-height: 30px;
     margin-bottom: 70px;
+    
+    /* border : 1px solid red; */
 }
 .btn
 {
@@ -35,6 +41,14 @@
     margin-top:30px;
     cursor: pointer
 }
+.resumeBtn{
+    background: none;
+    text-decoration: none;
+    border: none;
+    color: #D0B461;
+    font-size: 16px;
+    /* font-size: 20px; */
+}
 .mid
 {
     text-align: center;
@@ -49,5 +63,9 @@
         margin-left: 15%;
         font-size: 50px;
         margin-top: -50px;
+    }
+    .left{
+        /* margin-top: 100px; */
+        width: 70%;
     }
 }

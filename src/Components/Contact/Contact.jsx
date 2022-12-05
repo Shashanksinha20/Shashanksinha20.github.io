@@ -43,7 +43,7 @@ const Contact = () => {
     e.target.reset()
   }
   return (
-    <form onSubmit={handleSubmit} id="contact">
+    <form onSubmit={handleSubmit} id="contact" className = {styled.formFill}>
       <h1 className={styled.h1}>Contact Form</h1>
       <div className={styled.top}>
         <input

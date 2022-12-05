@@ -1,8 +1,15 @@
+
 .flex {
     display: flex;
     margin-top: 5%;
     margin-bottom: 5%;
+    padding-top: 4rem;
+    /* border: 1px solid red; */
+    /* padding: 100px 0 0 0; */
     
+  }
+  .h1{
+    /* padding: 20px; */
   }
   .div1 {
     margin-left: 15%;

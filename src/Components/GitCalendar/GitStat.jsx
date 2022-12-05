@@ -16,6 +16,14 @@ const gitStyle = {
     margin : "0 auto",
     padding : "10px 15px"
 }
+
+const gitStats = {
+  display : "flex",
+  flexWrap : "wrap",
+  justifyContent : "space-around",
+  margin : "30px auto"
+}
+
 const selectLastHalfYear = contributions => {
     const currentYear = new Date().getFullYear();
     const currentMonth = new Date().getMonth();
@@ -47,6 +55,20 @@ const selectLastHalfYear = contributions => {
           fontSize={16}
         />
       </div>
+          
+      <div className="section" data-aos="fade-right" style = {gitStats}>
+      <img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Shashanksinha20&theme=default"
+    alt = "git-streak"
+    style = {{maxWidth : "92%", minHeight : "207px"}}
+  />
+      <img
+    alt="ShashankSinha's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Shashanksinha20&theme=default"
+     style = {{maxWidth : "92%", minHeight : "207px"}}/>
+  
+      </div>
+      
     </>
   );
 };

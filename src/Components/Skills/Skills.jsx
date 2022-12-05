@@ -10,9 +10,12 @@ import { SiMysql } from "react-icons/si";
 import {SiJavascript} from 'react-icons/si';
 import {SiBootstrap} from 'react-icons/si';
 import {SiChakraui} from 'react-icons/si';
+import {DiMongodb} from 'react-icons/di'
+import {SiExpress, SiPostman} from 'react-icons/si'
+
 const Skills = () => {
   return (
-    <div id="skills">
+    <div id="skills" className = {styled.skills}>
       <h1 className={styled.mid}>Skills</h1>
        <div   className={styled.flex}>
          <div className={styled.size}>
@@ -53,15 +56,30 @@ const Skills = () => {
          </div>
          
        </div>
-       <div   className={styled.flex}>
-      
-         
+       
+       <div  className={styled.flex}>
          <div className={styled.size}>
          <SiChakraui className={styled.color}/>
          <h3 className={styled.mid}>Chakra UI</h3>
          </div>
+        
+
+         <div className={styled.size}>
+         <DiMongodb className={styled.color}/>
+         <h3 className={styled.mid}>MongoDB</h3>
          </div>
-    </div>
+
+         <div className={styled.size}>
+         <SiExpress className={styled.color}/>
+         <h3 className={styled.mid}>ExpressJS</h3>
+         </div>
+
+         <div className={styled.size}>
+         <SiPostman className={styled.color}/>
+         <h3 className={styled.mid}>Postman</h3>
+         </div>
+         </div>
+   </div>
   )
 }
 

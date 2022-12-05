@@ -11,13 +11,9 @@ const Navbar = () => {
       <img className={styled.img} src={img} alt="logo"/>
       </div>
       <div className={styled.margin}>
-      <Link to="intro" hashSpy={true}
-              spy={true}
-              smooth={true}
-              delay={100}
-              duration={500}
-              className={styled.left}>About</Link>
-      </div>
+      
+      </div> 
+      <a href = "/contact">About</a>
       <div className={styled.left}>
       <Link to="skills" hashSpy={true}
               spy={true}
