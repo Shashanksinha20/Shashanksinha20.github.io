@@ -48,7 +48,7 @@ const selectLastHalfYear = contributions => {
         </h2>
         <Githubcalendar
           username="Shashanksinha20"
-          transformData={selectLastHalfYear}
+          // transformData={selectLastHalfYear}
           blockSize={15}
           blockMargin={5}
           style = {gitStyle}
@@ -64,7 +64,7 @@ const selectLastHalfYear = contributions => {
   />
       <img
     alt="ShashankSinha's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Shashanksinha20&theme=default"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shashanksinha20&theme=default"
      style = {{maxWidth : "92%", minHeight : "207px"}}/>
   
       </div>

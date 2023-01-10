@@ -55,7 +55,7 @@ const Project = () => {
             <a
               className={styled.size}
               target = "_blank"
-              href="https://relaxed-starship-4fb21b.netlify.app/"
+              href="https://stellular-alfajores-660d81.netlify.app/"
             >
               <BiLink className={styled.size} />
             </a>
