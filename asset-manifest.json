@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7d8895a.css",
-    "main.js": "/static/js/main.52280c70.js",
-    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "main.css": "/static/css/main.5f91480c.css",
+    "main.js": "/static/js/main.e20c3184.js",
+    "static/js/453.41811d64.chunk.js": "/static/js/453.41811d64.chunk.js",
     "static/media/apple.png": "/static/media/apple.6e67e9291ebe29dd655c.png",
     "static/media/weather.png": "/static/media/weather.20f58e2647a54c7d31bb.png",
     "static/media/asos.png": "/static/media/asos.b653dc834ff051efc973.png",
@@ -10,12 +10,12 @@
     "static/media/Shashank-Sinha-Resume.pdf": "/static/media/Shashank-Sinha-Resume.db64a0449b2db30e1678.pdf",
     "static/media/pixlr1.jpg": "/static/media/pixlr1.7d44034bb00ea0e27eb6.jpg",
     "index.html": "/index.html",
-    "main.a7d8895a.css.map": "/static/css/main.a7d8895a.css.map",
-    "main.52280c70.js.map": "/static/js/main.52280c70.js.map",
-    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
+    "main.5f91480c.css.map": "/static/css/main.5f91480c.css.map",
+    "main.e20c3184.js.map": "/static/js/main.e20c3184.js.map",
+    "453.41811d64.chunk.js.map": "/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7d8895a.css",
-    "static/js/main.52280c70.js"
+    "static/css/main.5f91480c.css",
+    "static/js/main.e20c3184.js"
   ]
 }
