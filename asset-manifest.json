@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.5f91480c.css",
-    "main.js": "/static/js/main.e20c3184.js",
+    "main.js": "/static/js/main.9278f699.js",
     "static/js/453.41811d64.chunk.js": "/static/js/453.41811d64.chunk.js",
     "static/media/apple.png": "/static/media/apple.6e67e9291ebe29dd655c.png",
     "static/media/weather.png": "/static/media/weather.20f58e2647a54c7d31bb.png",
     "static/media/asos.png": "/static/media/asos.b653dc834ff051efc973.png",
     "static/media/cric.png": "/static/media/cric.fe461b7668b549eaee6c.png",
-    "static/media/Shashank-Sinha-Resume.pdf": "/static/media/Shashank-Sinha-Resume.db64a0449b2db30e1678.pdf",
+    "static/media/Shashank-Sinha-Resume.pdf": "/static/media/Shashank-Sinha-Resume.e1e957f75f66b234fe3e.pdf",
     "static/media/pixlr1.jpg": "/static/media/pixlr1.7d44034bb00ea0e27eb6.jpg",
     "index.html": "/index.html",
     "main.5f91480c.css.map": "/static/css/main.5f91480c.css.map",
-    "main.e20c3184.js.map": "/static/js/main.e20c3184.js.map",
+    "main.9278f699.js.map": "/static/js/main.9278f699.js.map",
     "453.41811d64.chunk.js.map": "/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f91480c.css",
-    "static/js/main.e20c3184.js"
+    "static/js/main.9278f699.js"
   ]
 }
